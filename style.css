@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    background-color: #222831;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header img{
+    color: #EEEEEE;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color: white;
+    
+}
+.banner-description{
+
+}
+.icon1{
+    width: 200px;
+    height: 300px;
+    flex-direction: column;
+    display: flex;
+    align-items:center;
+}
+.banner-btn button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 114px;
+    height:38px;
+    padding: 10px 32px 10px 32px;
+    gap: 10px;
+    border-radius: 24px;
+   background-color: #00ADB5;
+   color:white ;
+    border: none;
+ } 
+ .banner-btn2 button{
+    background-color: #4F4F4FFF;
+    box-shadow: none;
+    border: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.banner-description{
+    display: flex;
+    gap: 8px;
+    font-family: Poppins;
+    font-weight:700;
+}
+.banner-btn2  {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+      color: white;
+    background-color:#4F4F4FFF ;
+    width: 140px;
+    height: 40px;
+    border-radius: 24px;
+}
+.banner-btn1-2 {
+    display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.banner2{
+    display: flex;
+    
+}
+.banner3{
+
+}
